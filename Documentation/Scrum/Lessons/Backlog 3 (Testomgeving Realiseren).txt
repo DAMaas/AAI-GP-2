@@ -1,0 +1,27 @@
+10 uur ongeveer
+
+Frontend maken die modulair is
+Module frontend om producten te laten zien
+Module om producten op te halen / zoeken / minder specifiek
+Dingen sorteren in meerdere paginas
+
+Paginas:
+
+Homepage met alle producten, of zoiets als Bol met populair en aanbevolen voor jou.
+
+Redenatie:
+
+We hebben de koppeling tussen MongoDB en PostgreSQL al.
+Daarom hoeven we alleen maar een frontend te schrijven die die data gebruikt.
+Al het sorteren wordt gedaan in de backend.
+
+Tasks:
+
+Basispagina schrijven
+Module om producten op te vragen
+Aparte pagina voor alle producten schrijven
+Recommendations per pagina
+
+Streefdoelen:
+
+(Waarom recommended maybe als debug)
