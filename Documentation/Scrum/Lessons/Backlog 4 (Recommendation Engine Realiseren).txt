@@ -1,6 +1,26 @@
-(4 uur) Populaire producten (Meest verkocht, maybe per tijdseenheid like maand of 2) (Niet elke keer query, is onnodig)
+(4 uur) Populaire producten (Meest verkocht over bepaalde tijdsperiode)
 (4 uur) Soortgelijke producten (Categorie, gender, subsubcategorie, geen complementaire producten)
 (1 uur) 3 beste aanbevelingen per product (Hoge kans van aankopen)
-(2 uur) Impact meten van producten aanbevelen en brainstormen over mitigatie
+(2 uur) Impact meten van producten aanbevelen en brainstormen over mitigatie (Bijvoorbeeld query alleen maar 1x per dag uitvoeren)
 
 11 uur
+
+Tasks:
+
+Naam: Populaire producten aanbevelen
+
+Beschrijving: Een algoritme dat kijkt naar welke producten de gedefinieerde tijdsperiode veel verkocht werden en daaruit kiest om een aanbeveling te doen.
+
+DoD: Het programma moet met alle data als input een lijst van 3 producten kunnen teruggeven, gekozen op basis van meest verkocht in de gedefinieerde tijdsperiode.
+
+Geplande uren: 4 uur
+
+
+
+Naam: Soortgelijke producten aanbevelen
+
+Beschrijving: Een algoritme dat kijkt naar welke producten raakvlakken hebben met het product dat getoond wordt. Uit alle producten worden alleen producten gekozen die het meest overeenkomen qua bijvoorbeeld subsubcategorie of gender.
+
+DoD: Het programma moet met alle data als input een lijst van 3 producten kunnen teruggeven, gekozen op basis van meest verkocht in de gedefinieerde tijdsperiode.
+
+Geplande uren: 4 uur
