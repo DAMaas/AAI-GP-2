@@ -21,6 +21,26 @@ Naam: Soortgelijke producten aanbevelen
 
 Beschrijving: Een algoritme dat kijkt naar welke producten raakvlakken hebben met het product dat getoond wordt. Uit alle producten worden alleen producten gekozen die het meest overeenkomen qua bijvoorbeeld subsubcategorie of gender.
 
-DoD: Het programma moet met alle data als input een lijst van 3 producten kunnen teruggeven, gekozen op basis van meest verkocht in de gedefinieerde tijdsperiode.
+DoD: Het programma moet met alle data als input een lijst van 3 producten kunnen teruggeven, gekozen op basis van het meeste aantal overeenkomende velden zoals bijvoorbeeld subsubcategorie of gender.
 
 Geplande uren: 4 uur
+
+
+
+Naam: Resulaten limiteren tot bepaald aantal per aanbeveling
+
+Beschrijving: De algoritmes moeten begrensd kunnen worden zodat er weinig tot geen overhead is voor berekeningen die niet nodig zijn.
+
+DoD: De algoritmes moeten begrensd kunnen worden om alleen maar een maximaal aantal producten te tonen.
+
+Geplande uren: 1 uur
+
+
+
+Naam: Meten impact van een recommendation doen
+
+Beschrijving: Het bekijken van wat de impact (tijd die het kost, resources die het gebruikt) is van een recommendation doen en waar dat dan aan ligt. Daarna brainstormen over hoe we dat zouden kunnen beperken.
+
+DoD: Er moet data zijn over hoe lang het duurt om een query te doen en waarom het die tijd kost. Tevens een evnetueel plan om de tijd te reduceren.
+
+Geplande uren: 2 uur
